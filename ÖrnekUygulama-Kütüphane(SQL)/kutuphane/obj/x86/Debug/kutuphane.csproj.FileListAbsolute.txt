@@ -1,0 +1,7 @@
+c:\users\ufuk\documents\visual studio 2010\Projects\kutuphane\kutuphane\obj\x86\Debug\kutuphane.Form1.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\kutuphane\kutuphane\obj\x86\Debug\kutuphane.Properties.Resources.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\kutuphane\kutuphane\obj\x86\Debug\kutuphane.csproj.GenerateResource.Cache
+c:\users\ufuk\documents\visual studio 2010\Projects\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\kutuphane\kutuphane\obj\x86\Debug\kutuphane.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\kutuphane\kutuphane\obj\x86\Debug\kutuphane.pdb

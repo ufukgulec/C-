@@ -1,0 +1,8 @@
+c:\users\ufuk\documents\visual studio 2010\Projects\bil_grafikleri\bil_grafikleri\obj\x86\Debug\bil_grafikleri.Form1.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\bil_grafikleri\bil_grafikleri\obj\x86\Debug\bil_grafikleri.Properties.Resources.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\bil_grafikleri\bil_grafikleri\obj\x86\Debug\bil_grafikleri.csproj.GenerateResource.Cache
+c:\users\ufuk\documents\visual studio 2010\Projects\bil_grafikleri\bil_grafikleri\bin\Debug\bil_grafikleri.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\bil_grafikleri\bil_grafikleri\bin\Debug\bil_grafikleri.pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\bil_grafikleri\bil_grafikleri\obj\x86\Debug\bil_grafikleri.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\bil_grafikleri\bil_grafikleri\obj\x86\Debug\bil_grafikleri.pdb
+C:\Users\Ufuk\Documents\Visual Studio 2010\Projects\bil_grafikleri\bil_grafikleri\obj\x86\Debug\bil_grafikleri.csprojResolveAssemblyReference.cache
