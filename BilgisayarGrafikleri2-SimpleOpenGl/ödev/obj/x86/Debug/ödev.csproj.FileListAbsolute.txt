@@ -1,0 +1,8 @@
+c:\users\ufuk\documents\visual studio 2010\Projects\ödev\ödev\bin\Debug\ödev.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\ödev\ödev\bin\Debug\ödev.pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\ödev\ödev\obj\x86\Debug\ödev.Form1.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\ödev\ödev\obj\x86\Debug\ödev.Properties.Resources.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\ödev\ödev\obj\x86\Debug\ödev.csproj.GenerateResource.Cache
+c:\users\ufuk\documents\visual studio 2010\Projects\ödev\ödev\obj\x86\Debug\ödev.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\ödev\ödev\obj\x86\Debug\ödev.pdb
+C:\Users\Ufuk\documents\visual studio 2010\Projects\ödev\ödev\obj\x86\Debug\ödev.csprojResolveAssemblyReference.cache
