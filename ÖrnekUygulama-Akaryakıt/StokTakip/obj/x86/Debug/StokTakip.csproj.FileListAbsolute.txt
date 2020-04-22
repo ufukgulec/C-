@@ -1,0 +1,7 @@
+c:\users\ufuk\documents\visual studio 2010\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+c:\users\ufuk\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
