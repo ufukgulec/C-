@@ -1,0 +1,9 @@
+c:\users\ufuk\documents\visual studio 2010\Projects\Projem\Projem\bin\Debug\Projem.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\Projem\Projem\bin\Debug\Projem.pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\Projem\Projem\obj\x86\Debug\Projem.Properties.Resources.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\Projem\Projem\obj\x86\Debug\Projem.csproj.GenerateResource.Cache
+c:\users\ufuk\documents\visual studio 2010\Projects\Projem\Projem\obj\x86\Debug\Projem.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\Projem\Projem\obj\x86\Debug\Projem.pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\Projem\Projem\obj\x86\Debug\Projem.Form1.resources
+C:\Users\Ufuk\documents\visual studio 2010\Projects\Projem\Projem\obj\x86\Debug\Projem.ilkGiris.resources
+C:\Users\Ufuk\documents\visual studio 2010\Projects\Projem\Projem\obj\x86\Debug\Projem.Menü.resources
