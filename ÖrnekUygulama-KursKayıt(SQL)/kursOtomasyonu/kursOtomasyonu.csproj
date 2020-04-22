@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{59391637-9194-45E5-BEE4-5D1F838F0C8A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>kursOtomasyonu</RootNamespace>
+    <AssemblyName>kursOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.Designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dersler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dersler.Designer.cs">
+      <DependentUpon>dersler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdersekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdersekle.Designer.cs">
+      <DependentUpon>Formdersekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDersSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDersSecim.Designer.cs">
+      <DependentUpon>FormDersSecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formogrenciekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formogrenciekle.Designer.cs">
+      <DependentUpon>Formogrenciekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formogrenciguncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formogrenciguncelleme.Designer.cs">
+      <DependentUpon>Formogrenciguncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formogretmenekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formogretmenekle.Designer.cs">
+      <DependentUpon>Formogretmenekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formogretmenguncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formogretmenguncelleme.Designer.cs">
+      <DependentUpon>Formogretmenguncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formveliler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formveliler.Designer.cs">
+      <DependentUpon>Formveliler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formverilendersler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formverilendersler.Designer.cs">
+      <DependentUpon>Formverilendersler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ders.Designer.cs">
+      <DependentUpon>Form_ders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogrenci.Designer.cs">
+      <DependentUpon>Form_ogrenci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ogretmen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ogretmen.Designer.cs">
+      <DependentUpon>Form_ogretmen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ogretmenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ogretmenler.Designer.cs">
+      <DependentUpon>ogretmenler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dersler.resx">
+      <DependentUpon>dersler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdersekle.resx">
+      <DependentUpon>Formdersekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDersSecim.resx">
+      <DependentUpon>FormDersSecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formogrenciekle.resx">
+      <DependentUpon>Formogrenciekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formogrenciguncelleme.resx">
+      <DependentUpon>Formogrenciguncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formogretmenekle.resx">
+      <DependentUpon>Formogretmenekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formogretmenguncelleme.resx">
+      <DependentUpon>Formogretmenguncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formveliler.resx">
+      <DependentUpon>Formveliler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formverilendersler.resx">
+      <DependentUpon>Formverilendersler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ders.resx">
+      <DependentUpon>Form_ders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogrenci.resx">
+      <DependentUpon>Form_ogrenci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ogretmen.resx">
+      <DependentUpon>Form_ogretmen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ogretmenler.resx">
+      <DependentUpon>ogretmenler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
