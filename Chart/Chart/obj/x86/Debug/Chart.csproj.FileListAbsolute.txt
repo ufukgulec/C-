@@ -1,0 +1,7 @@
+c:\users\ufuk\documents\visual studio 2010\Projects\Chart\Chart\bin\Debug\Chart.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\Chart\Chart\bin\Debug\Chart.pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.Form1.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.Properties.Resources.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.csproj.GenerateResource.Cache
+c:\users\ufuk\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.pdb
