@@ -1,0 +1,8 @@
+c:\users\ufuk\documents\visual studio 2010\Projects\VeriTabaninaResimEkleme\VeriTabaninaResimEkleme\bin\Debug\VeriTabaninaResimEkleme.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\VeriTabaninaResimEkleme\VeriTabaninaResimEkleme\bin\Debug\VeriTabaninaResimEkleme.pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\VeriTabaninaResimEkleme\VeriTabaninaResimEkleme\obj\x86\Debug\VeriTabaninaResimEkleme.Form1.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\VeriTabaninaResimEkleme\VeriTabaninaResimEkleme\obj\x86\Debug\VeriTabaninaResimEkleme.Properties.Resources.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\VeriTabaninaResimEkleme\VeriTabaninaResimEkleme\obj\x86\Debug\VeriTabaninaResimEkleme.csproj.GenerateResource.Cache
+c:\users\ufuk\documents\visual studio 2010\Projects\VeriTabaninaResimEkleme\VeriTabaninaResimEkleme\obj\x86\Debug\VeriTabaninaResimEkleme.exe
+c:\users\ufuk\documents\visual studio 2010\Projects\VeriTabaninaResimEkleme\VeriTabaninaResimEkleme\obj\x86\Debug\VeriTabaninaResimEkleme.pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\VeriTabaninaResimEkleme\VeriTabaninaResimEkleme\bin\Debug\VeriTabaninaResimEkleme.exe.config
