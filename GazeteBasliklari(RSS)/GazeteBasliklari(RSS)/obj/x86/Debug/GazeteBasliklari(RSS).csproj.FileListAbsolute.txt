@@ -1,0 +1,7 @@
+c:\users\ufuk\documents\visual studio 2010\Projects\GazeteBasliklari(RSS)\GazeteBasliklari(RSS)\bin\Debug\GazeteBasliklari(RSS).exe
+c:\users\ufuk\documents\visual studio 2010\Projects\GazeteBasliklari(RSS)\GazeteBasliklari(RSS)\bin\Debug\GazeteBasliklari(RSS).pdb
+c:\users\ufuk\documents\visual studio 2010\Projects\GazeteBasliklari(RSS)\GazeteBasliklari(RSS)\obj\x86\Debug\GazeteBasliklari_RSS_.Form1.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\GazeteBasliklari(RSS)\GazeteBasliklari(RSS)\obj\x86\Debug\GazeteBasliklari_RSS_.Properties.Resources.resources
+c:\users\ufuk\documents\visual studio 2010\Projects\GazeteBasliklari(RSS)\GazeteBasliklari(RSS)\obj\x86\Debug\GazeteBasliklari(RSS).csproj.GenerateResource.Cache
+c:\users\ufuk\documents\visual studio 2010\Projects\GazeteBasliklari(RSS)\GazeteBasliklari(RSS)\obj\x86\Debug\GazeteBasliklari(RSS).exe
+c:\users\ufuk\documents\visual studio 2010\Projects\GazeteBasliklari(RSS)\GazeteBasliklari(RSS)\obj\x86\Debug\GazeteBasliklari(RSS).pdb
