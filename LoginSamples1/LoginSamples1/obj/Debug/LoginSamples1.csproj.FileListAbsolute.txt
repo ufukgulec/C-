@@ -1,0 +1,11 @@
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\bin\Debug\LoginSamples1.exe.config
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\bin\Debug\LoginSamples1.exe
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\bin\Debug\LoginSamples1.pdb
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\obj\Debug\LoginSamples1.Form1.resources
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\obj\Debug\LoginSamples1.Properties.Resources.resources
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\obj\Debug\LoginSamples1.csproj.GenerateResource.cache
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\obj\Debug\LoginSamples1.csproj.CoreCompileInputs.cache
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\obj\Debug\LoginSamples1.exe
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\obj\Debug\LoginSamples1.pdb
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\obj\Debug\LoginSamples1.csprojAssemblyReference.cache
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\LoginSamples1\LoginSamples1\obj\Debug\LoginSamples1.Form2.resources
