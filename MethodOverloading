@@ -1,0 +1,30 @@
+using System;
+
+namespace Ufuk
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(topla());
+            //0 yazar...
+            Console.WriteLine(topla(5));
+            //5 yazar...
+            Console.WriteLine(topla(12 + 3));
+            //15 yazar...
+            Console.ReadLine();
+        }
+        static int topla()
+        {
+            return 0;
+        }
+        static int topla(int sayi)
+        {
+            return sayi;
+        }
+        static int topla(int sayi1, int sayi2)
+        {
+            return sayi1 + sayi2;
+        }
+    }
+}
