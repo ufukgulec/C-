@@ -1,0 +1,39 @@
+using System;
+
+namespace Ufuk
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string örnek = "String Metodlarını deneyelim";
+
+            Console.WriteLine(örnek.Length);//Karakter sayısını yazar
+
+            var deneme = örnek.Clone();//Denemeye örneğin içindekinin atar
+
+            örnek = "Bugün string Metodlarını deneyelim.";
+            Console.WriteLine(deneme);//String Metodlarını deneyelim yazar...
+            Console.WriteLine(örnek);//Bugün string Metodlarını deneyelim yazar...
+
+            bool sonuc = örnek.EndsWith("m");//String örnek m ile bitiyorsa True yoksa False döner...
+            sonuc = örnek.StartsWith("B");//String örnek B ile başlıyorsa True yoksa False döner...
+
+            deneme = örnek.IndexOf("u");//Örnekteki İLK u'nun indexini verir.
+            deneme = örnek.LastIndexOf("u");//Örnekteki SON u'nun indexini verir.
+
+            deneme = örnek.Insert(0, "Ben ");//Girilen indextenten sonra girilen yazıyı yazar sonra örneği yazar.
+
+            deneme = örnek.Substring(5);//Metini parçalamaya yarar.
+            Console.WriteLine(deneme);//string Metodlarını deneyelim yazar...
+            deneme = örnek.Substring(5, 6);//İndexten sonraki 6 karakteri alır.
+            Console.WriteLine(deneme);//string yazar...
+
+            deneme = örnek.ToLower();//Yazıyı küçük karakterlerle yazar.
+            deneme = örnek.ToUpper();//Yazıyı büyük karakterlerle yazar.
+
+            deneme = örnek.Replace(" ", "*");//Metindeki boşluk( ) yerine yıldız(*) koyar.
+            Console.WriteLine(deneme);//Bugün*string*Metodlarını*deneyelim*yazar...
+        }
+    }
+}
