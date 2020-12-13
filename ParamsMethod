@@ -1,0 +1,28 @@
+using System;
+using System.Linq;
+
+namespace Ufuk
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(topla(1, 22, 3));//topla metoduna istediğimiz kadar sayı gönderebiliriz.
+            //26 yazar...
+            Console.WriteLine(topla(1, 2, 3, 4, 5));
+            //15 yazar...
+            Console.ReadLine();
+        }
+        static int topla(params int[] sayi)
+        {
+            int toplam = 0;
+            foreach (var item in sayi)
+            {
+                toplam += item;
+            }
+            return toplam;
+            //return sayi.Sum(); ----> System.Linq kullanarak diziyi toplayabiliriz.
+        }
+
+    }
+}
