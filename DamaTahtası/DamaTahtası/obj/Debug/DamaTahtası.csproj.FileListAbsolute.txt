@@ -1,0 +1,10 @@
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.exe.config
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.exe
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.pdb
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csprojAssemblyReference.cache
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.Form1.resources
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.Properties.Resources.resources
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csproj.GenerateResource.cache
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csproj.CoreCompileInputs.cache
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.exe
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.pdb
