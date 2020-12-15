@@ -1,0 +1,113 @@
+using System;
+using System.Collections.Generic;
+
+namespace Generic
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Musteri musteri = new Musteri();
+            musteri.ekle(new Musteriler());
+            Urun urun = new Urun();
+            urun.ekle(new Urunler());
+        }
+    }
+    interface IGeneric<T>//Musteri ve Urunler interfacesi için ayrı ayrı metodlar yazmak yerine Generic interface oluşturdum.
+    {
+        List<T> listele();
+        T getir(int id);
+        void ekle(T varlik);
+        void sil(T varlik);
+        void güncelle(T varlik);
+
+    }
+
+    class Musteriler
+    {
+        public Musteriler()
+        {
+
+        }
+    }
+    interface IMusteri : IGeneric<Musteriler>
+    {
+        void bildirim();
+    }
+    class Musteri : IMusteri
+    {
+        public void bildirim()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void ekle(Musteriler varlik)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Musteriler getir(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void güncelle(Musteriler varlik)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Musteriler> listele()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void sil(Musteriler varlik)
+        {
+            throw new NotImplementedException();
+        }
+    }
+    class Urunler
+    {
+        public Urunler()
+        {
+
+        }
+    }
+
+    interface IUrun : IGeneric<Urunler>
+    {
+        void urunSat();
+    }
+    class Urun : IUrun
+    {
+        public void ekle(Urunler varlik)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Urunler getir(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void güncelle(Urunler varlik)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Urunler> listele()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void sil(Urunler varlik)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void urunSat()
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
